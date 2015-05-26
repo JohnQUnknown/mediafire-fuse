@@ -1,4 +1,4 @@
-'/*
+/*
  * Copyright (C) 2014 Johannes Schauer <j.schauer@email.de>
  *
  * This program is free software; you can redistribute it and/or modify it
